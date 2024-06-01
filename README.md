@@ -1,1 +1,1 @@
-"# Nassau_2P_POO_2Av_Biblioteca_Arcana" 
+# Projeto da disciplina Programação Orientada a Objetos, onde fiz um sistema de biblioteca onde é possível criar usuários, livros e cadastros, além de haver funções específicas para cada, como listar, deletar, buscar, devolver empréstimo, entre outros.
